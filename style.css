@@ -22,20 +22,18 @@ nav ul li a:hover {
     background-color: #333;
 }
 
-/* Estilização para a tabela */
+
 table {
     background-color: yellow;
     width: 100%;
-    border-collapse: collapse; /* Faz com que as bordas fiquem colapsadas */
+    border-collapse: collapse; 
 }
 
-/* Estilização para as bordas das células */
 table, th, td {
     border: 1px solid black;
-    padding: 8px; /* Espaçamento interno nas células */
+    padding: 8px; 
 }
 
-/* Estilização para o cabeçalho */
 th {
     background-color: #f2f2f2;
 }
